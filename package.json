@@ -5,6 +5,10 @@
   "license": "MIT",
   "author": "fengmk2",
   "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/voidzero-dev/vp-cli-placeholder.git"
+  },
   "bin": {
     "vp": "bin/vp.js"
   },
