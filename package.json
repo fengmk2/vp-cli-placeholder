@@ -7,7 +7,7 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voidzero-dev/vp-cli-placeholder.git"
+    "url": "git+https://github.com/fengmk2/vp-cli-placeholder.git"
   },
   "bin": {
     "vp": "bin/vp.js"
