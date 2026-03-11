@@ -1,0 +1,17 @@
+{
+  "name": "vp",
+  "version": "1.0.2",
+  "description": "Redirect to https://viteplus.dev",
+  "license": "MIT",
+  "author": "fengmk2",
+  "type": "commonjs",
+  "bin": {
+    "vp": "bin/vp.js"
+  },
+  "files": [
+    "bin"
+  ],
+  "scripts": {
+    "test": "node test/vp.test.js"
+  }
+}
